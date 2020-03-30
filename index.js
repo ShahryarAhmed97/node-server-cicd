@@ -6,7 +6,7 @@ app.get('/',function(req,res) {
 });
 
 
-app.listen(4000)
+app.listen(80)
     
-console.log('server running at port ',4000)
+console.log('server running at port ',80)
     
